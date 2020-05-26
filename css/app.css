@@ -11110,8 +11110,8 @@ a.text-dark:focus {
 }
 
 .sidebar .avatar img {
-  width: 100%;
-  max-width: 200px;
+  max-width: 100%;
+  height: auto;
   border-radius: 10px;
 }
 
