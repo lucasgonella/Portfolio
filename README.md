@@ -1,3 +1,2 @@
 # Portfolio
-Portfólio de Apresentação
-<a href="https://lucasgonella.github.io/Portfolio"> Portfolio </a>
+<a href="https://lucasgonella.github.io/Portfolio"> Portfólio </a> de Apresentação
